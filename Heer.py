@@ -1,9 +1,9 @@
 #!/usr/bin/python2
 #coding=utf-8
-#Codded By Jam Shahrukh
+#Codded By Ali Hassan
 #Editing My Script Will Not Make You A Coder
-#Facebook : JAM Shahrukh
-#Whatsapp : ++971528752764
+#Facebook : Ali Hassan
+#Whatsaph : Nai Dena
 #Pakistan Cyber Expert
 #Alone Coder 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
@@ -84,8 +84,8 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print logo
 
-CorrectUsername = "jam"
-CorrectPassword = "mishi"
+CorrectUsername = "Musraat"
+CorrectPassword = "Jahaan"
 
 loop = 'true'
 while (loop == 'true'):
